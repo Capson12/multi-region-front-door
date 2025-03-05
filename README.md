@@ -1,4 +1,4 @@
-Multi-Region Web Application with Azure
+# Multi-Region Web Application with Azure
 This README outlines the architecture and setup for a highly available, multi-region web application using Azure services.
 Architecture Overview
 Our multi-region web application leverages the following Azure services:
